@@ -1,0 +1,6 @@
+/vendor/
+node_modules
+coverage
+clover.xml
+*.sublime-workspace
+tmp

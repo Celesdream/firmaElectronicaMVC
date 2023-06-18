@@ -1,0 +1,5 @@
+{
+    "require": {
+        "mifiel/api-client": "^2.0"
+    }
+}
